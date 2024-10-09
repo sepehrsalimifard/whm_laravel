@@ -1,9 +1,9 @@
 <?php
 
-namespace sepehrsalimifard\whmLaravel;
+namespace sepehrsalimifard\whm_laravel;
 
-use sepehrsalimifard\whmLaravel\Exception;
-use sepehrsalimifard\whmLaravel\GuzzleHttp;
+use sepehrsalimifard\whm_laravel\Exception;
+use sepehrsalimifard\whm_laravel\GuzzleHttp;
 use GuzzleHttp\Client;
 
 /**

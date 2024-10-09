@@ -1,6 +1,6 @@
 <?php
 
-namespace sepehrsalimifard\whmLaravel;
+namespace sepehrsalimifard\whm_laravel;
 
 /**
  * WHM/cPanel API
